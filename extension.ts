@@ -164,7 +164,7 @@ namespace MUVisionSensor {
     }
     export enum BaudRate {
         //% block="9600"
-        BR_9600=0,
+        BR_115200=0,
         //% block="19200"
         BR_19200,
         //% block="38400"
